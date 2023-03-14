@@ -1,0 +1,56 @@
+.h1 {
+  font-family: "Times New Roman", Times, serif;
+
+}
+ .card{ 
+    width:400px;
+    height: 400px;
+    padding: 25px;
+    background-color: rgba(255, 255, 256, 0.5);
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+}
+.btn
+ { border-radius: 12px;
+ background-color: #4CAF50;/* Green */
+ border-color: aliceblue;
+
+
+}
+h1{
+  font-family: serif;
+  color: rgb(92, 55, 87);
+  font: size 39pt;
+  text-align: center;
+  background-color: plum;
+}
+button:hover{
+  opacity: 0.7;
+}
+input[type=text], input[type=password] {   
+  width: 100%;   
+  margin: 8px 0;  
+  padding: 12px 20px;   
+  display: inline-block;   
+  border: 2px solid rgb(0, 28, 128);   
+  box-sizing: border-box;   
+}  
+
+
+.card label-h1,
+h6{
+  color: blue;
+}
+label{
+  color: rgb(136, 10, 21);
+}
+
+/* .btn{
+    border-radius: 12px;
+    background-color: rgb(15, 184, 37);
+  
+  border: 2px solid #4CAF50;
+} */

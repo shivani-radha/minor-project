@@ -1,0 +1,36 @@
+{
+  "employees": [
+    {
+      "fullname": "k",
+      "email": "w",
+      "mobile": 3,
+      "password": "s",
+      "id": 1
+    },
+    {
+      "fullname": "jjss",
+      "email": "s@hj",
+      "mobile": 9887,
+      "password": "sas",
+      "id": 2
+    },
+    {
+      "name": "frr",
+      "email": "dd",
+      "phone": "88",
+      "id": 3
+    },
+    {
+      "name": "Shivani",
+      "email": "jjj",
+      "phone": "99",
+      "id": 4
+    },
+    {
+      "name": "wwwww",
+      "email": "dd",
+      "phone": "44",
+      "id": 5
+    }
+  ]
+}

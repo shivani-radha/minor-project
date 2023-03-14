@@ -1,0 +1,30 @@
+/* .form-box1{ 
+     width:400px;
+    height: 400px;
+    padding: 25px;
+    background-color: #F4A460;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+} */
+.card{ 
+    width:400px;
+    height: 400px;
+    padding: 25px;
+    background-color: #FFB6C1;
+    position: absolute;
+    transform: translate(-50%,-50%);
+    left: 50%;
+    top: 50%;
+    z-index: 1;
+}
+
+.card label-h1,
+h6{
+  color: blue;
+}
+label{
+  color: rgb(136, 10, 21);
+}
