@@ -3,13 +3,6 @@ import { BrowserModule } from '@angular/platform-browser';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { ComponentAComponent } from './component-a/component-a.component';
-import { ComponentBComponent } from './component-b/component-b.component';
-import { HeaderComponent } from './header/header.component';
-import { FooterComponent } from './footer/footer.component';
-import { SampleService } from './service/sample.service';
-import { ChangeColorDirective } from './directive/change-color.directive';
-import { MakeBoldDirective } from './directive/make-bold.directive';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 //import { DashboardComponent } from './dashboard/dashboard.component';
 import { HttpClientModule } from '@angular/common/http'; 
@@ -22,12 +15,6 @@ import { DummyComponent } from './dummy/dummy.component';
 @NgModule({
   declarations: [
     AppComponent,
-    ComponentAComponent,
-    ComponentBComponent,
-    HeaderComponent,
-    FooterComponent,
-    ChangeColorDirective,
-    MakeBoldDirective,
     DummyComponent,
     Login1Component
     /*DashboardComponent,
