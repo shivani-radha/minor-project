@@ -1,36 +1,32 @@
 {
   "employees": [
     {
-      "fullname": "k",
-      "email": "w",
-      "mobile": 3,
-      "password": "s",
-      "id": 1
+      "id": "101",
+      "name": "Vasudev Krishna",
+      "email": "krishnaDevaki@gmail.com",
+      "phone": "7478458456",
+      "salary": "900000"
     },
     {
-      "fullname": "jjss",
-      "email": "s@hj",
-      "mobile": 9887,
-      "password": "sas",
-      "id": 2
+      "id": "102",
+      "name": "K.Radha",
+      "email": "Radha6@gmail.com",
+      "phone": "8455765785",
+      "salary": "800000"
     },
     {
-      "name": "frr",
-      "email": "dd",
-      "phone": "88",
-      "id": 3
-    },
-    {
+      "id": "103",
       "name": "Shivani",
-      "email": "jjj",
-      "phone": "99",
-      "id": 4
+      "email": "shivani@gmail.com",
+      "phone": "7465475578",
+      "salary": "800000"
     },
     {
-      "name": "wwwww",
-      "email": "dd",
-      "phone": "44",
-      "id": 5
+      "id": "109",
+      "name": "john",
+      "email": "john@gmail.com",
+      "phone": "9478459457",
+      "salary": "300000"
     }
   ]
 }

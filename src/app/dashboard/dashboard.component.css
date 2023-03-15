@@ -266,7 +266,7 @@ input[type="text"]:focus {
   box-shadow: 0 0 0 2px rgba(0, 0, 0, 0.1);
 }
 
-button[type="submit"] {
+/* button[type="submit"] {
   padding: 0.5rem 1rem;
   background-color: #333;
   color: #fff;
@@ -282,11 +282,11 @@ button[type="submit"]:hover {
 
 .btn1
  { border-radius: 12px;
- background-color: #c30dae;/* Green */
+ background-color: #c30dae;
 border-color: rgb(21, 22, 22);
 }
 .btn3
  { border-radius: 12px;
- background-color: #4CAF50;/* Green */
+ background-color: #4CAF50;
 border-color: rgb(1, 6, 11);
-}
+} */

@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./login1.component.css']
 })
 export class Login1Component {
+  throwAlert(){
+    alert('Login success')
+  }
 
 }

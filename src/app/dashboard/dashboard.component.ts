@@ -1,7 +1,7 @@
-import { Component, OnInit } from '@angular/core';
+/*import { Component, OnInit } from '@angular/core';
 import { Router } from '@angular/router';
-import { Employee } from '../employee';
-import { EmployeeService } from '../employee.service';
+//import { Employee } from '../employee';
+//import { EmployeeService } from '../employee.service';
 
 @Component({
   selector: 'app-dashboard',
@@ -16,4 +16,4 @@ export class DashboardComponent  implements OnInit {
   goToEmployeeCreation() {
     this.router.navigate(['/employee-creation']);
   }
-}
+ }*/

@@ -1,4 +1,4 @@
- .card{ 
+ /* .card{  
     width:500px;
     height: 700px;
     padding: 25px;
@@ -24,7 +24,7 @@ h1{
 }
 .btn
  { border-radius: 12px;
- background-color: #4CAF50;/* Green */
+ background-color: #4CAF50;
 border-color: aliceblue;
 }
 .employee { 
