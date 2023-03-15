@@ -10,6 +10,7 @@ import { Login1Component } from './login1/login1.component';
  import { AuthGuard } from './auth.guard';
 import { DummyComponent } from './dummy/dummy.component';
 
+
 const routes: Routes = [
   {
     path:"path-a",
